@@ -1,0 +1,8 @@
+
+streamlit>=1.40.0
+pandas>=2.2.0
+python-dotenv>=1.0.1
+newsapi-python>=0.2.7
+newsapi-python
+python-dotenv
+vaderSentiment
